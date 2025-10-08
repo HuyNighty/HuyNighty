@@ -4,4 +4,4 @@ Project & Roadmap
 
 [![🗺️ View Roadmap](https://img.shields.io/badge/🗺️_E--Commerce_Roadmap-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuyNighty/ecommerce-roadmap)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HuyNighty&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=HuyNighty&theme=tokyonight)
