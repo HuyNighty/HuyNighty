@@ -1,11 +1,7 @@
-## Hi there 👋
+Project & Roadmap
 
-![Status](https://github-readme-stats.vercel.app/api?username=HuyNighty&show_icons=true&theme=radical&locale=vi)
+[![📦 Store (Book) – E-Commerce Backend](https://img.shields.io/badge/📦_Store_(Book)_(Spring_Boot_Backend)-1E90FF?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/HuyNighty/store_v1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuyNighty&layout=compact&theme=react)
+[![🗺️ View Roadmap](https://img.shields.io/badge/🗺️_E--Commerce_Roadmap-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuyNighty/ecommerce-roadmap)
 
-![Profile views](https://komarev.com/ghpvc/?username=HuyNighty&color=brightgreen)
-
-![GitHub followers](https://img.shields.io/github/followers/HuyNighty?style=social)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HuyNighty&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=HuyNighty&theme=github_dark)
